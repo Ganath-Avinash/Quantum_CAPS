@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 The Three Pillars of QxLabs
+## The Three Pillars of QxLabs
 
 ### 1. Quantum Playground (`/playground`)
 - **Drag-and-Drop Circuit Canvas:** Visual workspace to build multi-qubit quantum circuits using standard gates (H, X, Y, Z, S, T, Rx, Ry, Rz, CNOT, CZ, SWAP).
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎯 Additional Features
+##  Additional Features
 
 - **Quantum Gate Puzzles (`/puzzles`):** Interactive challenges testing quantum intuition (Match the Gate, State Target transformation).
 - **Quantum Gate Library (`/quantum-library`):** Complete reference encyclopedia detailing unitary matrices, Dirac bra-ket notations, formulas, and practical use cases.
@@ -45,7 +45,7 @@
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```mermaid
 flowchart TB
@@ -73,7 +73,7 @@ flowchart TB
 
 ---
 
-## 💻 Quick Start & Local Setup
+##  Quick Start & Local Setup
 
 ### Prerequisites
 - **Node.js** (v18+)
@@ -110,7 +110,7 @@ For instant access without signing up:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React 19, TypeScript, Tailwind CSS, Shadcn UI, Three.js / React Three Fiber, Monaco Editor, Lucide Icons.
 - **Backend:** FastAPI (Python), Qiskit, Qiskit Aer, OpenQASM.
@@ -120,5 +120,5 @@ For instant access without signing up:
 
 ---
 
-## 📄 License
+##  License
 © 2026 QxLabs. All rights reserved.
